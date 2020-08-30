@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prafulla Diwesh</title>
+    <link>https://prafulladiwesh.github.io/prafulladiwesh/</link>
+    <description>Recent content on Prafulla Diwesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://prafulladiwesh.github.io/prafulladiwesh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4: Web Application for Forecasting System using Linear Regression</title>
+      <link>https://prafulladiwesh.github.io/prafulladiwesh/post/project-4/</link>
+      <pubDate>Fri, 28 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://prafulladiwesh.github.io/prafulladiwesh/post/project-4/</guid>
+      <description>Created a Web Application to interact with machine learning model using REST API connection.
+  Web Application is created using Spring MVC where UI was implemented using JSP.
+  The Linear Regression model was trained and stored as a .pkl file. This was hosted on Flask server.
+  Spring MVC application was hosted on Tomcat server. The Flask API was consumed from Spring application.
+  The data is uploaded in the csv format from the UI and passed to the regression model which returns the prediction in JSON format.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Entity Resolution &amp; Knowledge Graph Construction</title>
+      <link>https://prafulladiwesh.github.io/prafulladiwesh/post/project-3/</link>
+      <pubDate>Mon, 17 Aug 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://prafulladiwesh.github.io/prafulladiwesh/post/project-3/</guid>
+      <description>Created a ML ML pipeline for detecting same products present on multiple e-commerce websites.
+  The data format of each website is different. So the first step was to clean the site-specific text data.
+  The Brand names were extracted from each site&amp;rsquo;s json data present in title tag. This extraction of brand names was a human-in loop process with domain specific knowledge approach.
+  Large amount of rules are created for filtering the brand names for matching same and different products.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Image Retrieval and Textual Explanation Using XAI</title>
+      <link>https://prafulladiwesh.github.io/prafulladiwesh/post/project-2/</link>
+      <pubDate>Tue, 30 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://prafulladiwesh.github.io/prafulladiwesh/post/project-2/</guid>
+      <description>Created a Image Retrieval system which provides textual and visual explanations for the retrieved results.
+  Image retrieval system was created using feature extraction and feature engineering methods.
+  There are 3 main features :
+   Low level color shape and texture features.    Foreground and Background feature.    High Level semantic feature for Object detection and Saliency map generation.      All these combined features are used for generating global and local textual explanation of the retrieved results.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: An Evaluation of Deep Hashing for Nearest Neighbour Search on General Embedding Data</title>
+      <link>https://prafulladiwesh.github.io/prafulladiwesh/post/project-1/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://prafulladiwesh.github.io/prafulladiwesh/post/project-1/</guid>
+      <description>Created a model to generate the Hash code for images using which will be then used for finding similar images. The model is fed embeddings of the images which is generated using CNN SOTA EfficientNet. These embeddings are the input for the Deep Hash model to generate hash codes for each embeddings. Triplet loss model is used for training the Deep Neural Network hash generation model. The Deep Neural Network model is evaluated using Computation and Coverage.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://prafulladiwesh.github.io/prafulladiwesh/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://prafulladiwesh.github.io/prafulladiwesh/contact/</guid>
+      <description>Contact Details: Address: Große Steinernetischstraße 5, Magdeburg, 39104, Germany
+Email: prafulladiwesh@gmail.com
+Phone: +4917645792783
+Social Media: GitHub
+LinkedIn
+Xing
+Kaggle
+Hackerrank
+Stackoverflow
+Twitter
+Instagram
+Youtube</description>
+    </item>
+    
+  </channel>
+</rss>
