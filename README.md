@@ -5,14 +5,12 @@ I am currently working on gaining in-depth hand-on experience in Data Science an
 
 ### Feel free to contact me on
 
+ | 
+--- | ---
 Portfolio | https://prafulladiwesh.github.io/prafulladiwesh/
---- | ---
 Email | prafulladiwesh@gmail.com
---- | ---
 LinkedIn | https://www.linkedin.com/in/prafulla-diwesh-73905a104/
---- | ---
 Stackoverflow | https://stackoverflow.com/users/13706207/prafulla-diwesh
---- | ---
 Kaggle | https://www.kaggle.com/prafulladiwesh
 
 <!--
