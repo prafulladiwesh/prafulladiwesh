@@ -1,10 +1,12 @@
 ### Hello 👋
 My name is Prafulla Diwesh. 
-I am currently a graduate student in Computer Science at Otto-von-Guericke-University Magdeburg and bring with me 4 years of professional work experience in Software and Web Development using Java and Spring technologies. I am currently working on gaining in-depth hand-on experience in Data Science and Software Development through various projects.
+I am currently a graduate student in Computer Science at Otto-von-Guericke-University Magdeburg and bring with me 4 years of professional work experience in Software and Web Development using Java and Spring technologies.\
+I am currently working on gaining in-depth hand-on experience in Data Science and Software Development through various projects.
 
 ### Feel free to contact me on
 
 Email | prafulladiwesh@gmail.com
+--- | ---
 Portfolio | https://prafulladiwesh.github.io/prafulladiwesh/
 
 <!--
