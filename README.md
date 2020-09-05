@@ -5,7 +5,7 @@ I am currently working on gaining in-depth hand-on experience in Data Science an
 
 ### Feel free to contact me on
 
- | 
+Account | URL 
 --- | ---
 Portfolio | https://prafulladiwesh.github.io/prafulladiwesh/
 Email | prafulladiwesh@gmail.com
