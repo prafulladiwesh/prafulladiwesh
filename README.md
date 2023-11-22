@@ -1,7 +1,6 @@
 ### Hello 👋
 My name is Prafulla Diwesh. 
-I am a graduate student in Computer Science at Otto-von-Guericke-University Magdeburg and bring with me 4 years of professional work experience in Software and Web Development using Java and Spring technologies.\
-I am currently working on gaining in-depth hand-on experience in Data Science and Software Development through various projects.
+I am a Software Developer with 8 years of experience in Design, Development, Testing and Maintenance of Software applications using Java backend and DevOps technologies. I have strong expertise in designing and developing applications using Java, Spring Boot, Microservices, SQL, Kafka, JUnit, Machine Learning and Scrum concepts of Agile Methodology. I am proficient in collaborating within diverse Agile teams, ensuring the consistent delivery of top-notch software solutions in dynamic iterative settings. I hold a deep comprehension of Agile principles, emphasizing collaboration, adaptability, and continuous enhancement. Extensive understanding of the Software Development Life Cycle (SDLC)
 
 ### Feel free to contact me on
 
