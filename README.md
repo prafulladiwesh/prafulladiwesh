@@ -1,14 +1,18 @@
-### Hello 👋
-My name is Prafulla Diwesh. 
-I am a Software Developer with 8 years of experience in Design, Development, Testing and Maintenance of Software applications using Java backend and DevOps technologies. I have strong expertise in designing and developing applications using Java, Spring Boot, Microservices, SQL, Kafka, JUnit, Machine Learning and Scrum concepts of Agile Methodology. I am proficient in collaborating within diverse Agile teams, ensuring the consistent delivery of top-notch software solutions in dynamic iterative settings. I hold a deep comprehension of Agile principles, emphasizing collaboration, adaptability, and continuous enhancement. Extensive understanding of the Software Development Life Cycle (SDLC)
+**Hi, I'm Prafulla Diwesh!** 👋  
 
-### Feel free to contact me on
+I'm a **Software Developer** with more than **9 years of experience** in designing, developing, testing, and maintaining software applications. My expertise lies in **Java backend development**, **DevOps technologies**, and **Machine Learning**, with a strong focus on **Spring Boot, Microservices, SQL, Kafka, Google Cloud, JUnit, and Neural Networks**.  
+
+I thrive in **Agile environments**, collaborating with cross-functional teams to deliver high-quality software solutions. With a deep understanding of **Agile principles**, I emphasize **collaboration, adaptability, and continuous improvement**. Additionally, I have extensive knowledge of the **Software Development Life Cycle (SDLC)**, ensuring efficient and scalable solutions.  
+
+Let's connect and build something amazing! 🚀  
+
+
 
 Account | URL 
 --- | ---
+LinkedIn | www.linkedin.com/in/prafulladiwesh
 Portfolio | https://prafulladiwesh.github.io/prafulladiwesh/
 Email | prafulladiwesh@gmail.com
-LinkedIn | https://www.linkedin.com/in/prafulla-diwesh-73905a104/
 Stackoverflow | https://stackoverflow.com/users/13706207/prafulla-diwesh
 Kaggle | https://www.kaggle.com/prafulladiwesh
 
